@@ -4,6 +4,8 @@
 **Duration:** 55 minutes  
 **Database:** MongoDB-style document database
 
+juliuis ai chat link:https://julius.ai/replay/a1d6a2bc-45ca-434a-bb16-9cbff92bacc3
+
 ## 1. Aim
 
 To design a simple document-oriented database for an e-commerce product catalogue, using embedded documents and references where appropriate.
