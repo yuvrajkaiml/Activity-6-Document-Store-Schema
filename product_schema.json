@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "PROD001",
+        "sku": "MOB-NOVA-128-BLK",
+        "name": "Nova X1 Smartphone",
+        "category": "Mobile phones",
+        "brand": "NovaTech",
+        "description": "A black smartphone with 128 GB storage and 5G support.",
+        "price": {
+            "amount": 299.99,
+            "currency": "USD"
+        },
+        "stock_quantity": 40,
+        "supplier_id": "SUP001",
+        "specifications": {
+            "operating_system": "Android",
+            "ram_gb": 8,
+            "storage_gb": 128,
+            "screen_size_inches": 6.5,
+            "battery_capacity_mah": 5000,
+            "supports_5g": true,
+            "color": "Black"
+        },
+        "reviews": [
+            {
+                "review_id": "REV001",
+                "user_id": "USER001",
+                "rating": 5,
+                "comment": "The battery lasts well and the screen is clear.",
+                "reviewed_at": "2026-09-12T10:30:00Z"
+            },
+            {
+                "review_id": "REV002",
+                "user_id": "USER002",
+                "rating": 4,
+                "comment": "Good everyday performance, but the camera could be better.",
+                "reviewed_at": "2026-09-13T14:15:00Z"
+            }
+        ],
+        "created_at": "2026-09-01T09:00:00Z"
+    },
+    {
+        "_id": "PROD002",
+        "sku": "SHO-STRIDE-US9-BLK",
+        "name": "Stride Running Shoes",
+        "category": "Shoes",
+        "brand": "StrideWorks",
+        "description": "Black mesh running shoes in US size 9.",
+        "price": {
+            "amount": 59.99,
+            "currency": "USD"
+        },
+        "stock_quantity": 25,
+        "supplier_id": "SUP002",
+        "specifications": {
+            "size": 9,
+            "size_system": "US",
+            "color": "Black",
+            "upper_material": "Mesh",
+            "sole_material": "Rubber",
+            "shoe_type": "Running"
+        },
+        "reviews": [
+            {
+                "review_id": "REV003",
+                "user_id": "USER002",
+                "rating": 5,
+                "comment": "Comfortable and lightweight for daily running.",
+                "reviewed_at": "2026-09-15T08:45:00Z"
+            }
+        ],
+        "created_at": "2026-09-02T09:00:00Z"
+    }
+]

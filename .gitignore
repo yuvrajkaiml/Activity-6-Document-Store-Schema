@@ -1,0 +1,26 @@
+# Duplicate source folder (contents moved to root and screenshots/)
+SS/
+
+# Secrets and environment
+.env
+.env.*
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
